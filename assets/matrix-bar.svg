@@ -1,0 +1,16 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44">
+  <rect width="900" height="44" rx="5" fill="#080d0a"/>
+  <rect x="1" y="1" width="898" height="42" rx="4" fill="none" stroke="#193b29"/>
+  <text x="18" y="26" font-family="monospace" font-size="12" fill="#8da998">SYSTEM</text>
+  <rect x="100" y="15" width="580" height="14" rx="2" fill="#13251a"/>
+  <rect x="100" y="15" width="580" height="14" rx="2" fill="none" stroke="#244b33"/>
+  <rect x="100" y="15" width="100" height="14" rx="2" fill="#39ff88" opacity=".9">
+    <animate attributeName="width" values="100;430;180;520;100" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".55;1;.7;1;.55" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="700" y="26" font-family="monospace" font-size="12" fill="#39ff88">RUNNING</text>
+  <circle cx="858" cy="22" r="4" fill="#39ff88">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
