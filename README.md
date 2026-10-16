@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./assets/matrix-bar.svg" width="100%" alt="Animated system bar">
+</div>
+
+<div align="center">
 
 <img src="./assets/matrix-banner.gif" width="100%" alt="Matrix Banner">
 
